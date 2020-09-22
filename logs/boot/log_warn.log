@@ -1,8 +1,0 @@
-2020-09-22 15:38:42.621 [restartedMain] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner - No MyBatis mapper was found in '[com.liuwenxu.boot.**.mapper]' package. Please check your configuration.
-2020-09-22 15:38:43.810 [restartedMain] WARN  org.thymeleaf.templatemode.TemplateMode - [THYMELEAF][restartedMain] Template Mode 'LEGACYHTML5' is deprecated. Using Template Mode 'HTML' instead.
-2020-09-22 15:43:23.246 [restartedMain] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner - No MyBatis mapper was found in '[com.liuwenxu.boot.**.mapper]' package. Please check your configuration.
-2020-09-22 15:43:24.351 [restartedMain] WARN  org.thymeleaf.templatemode.TemplateMode - [THYMELEAF][restartedMain] Template Mode 'LEGACYHTML5' is deprecated. Using Template Mode 'HTML' instead.
-2020-09-22 15:46:47.006 [restartedMain] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner - No MyBatis mapper was found in '[com.liuwenxu.boot.**.mapper]' package. Please check your configuration.
-2020-09-22 15:46:48.077 [restartedMain] WARN  org.thymeleaf.templatemode.TemplateMode - [THYMELEAF][restartedMain] Template Mode 'LEGACYHTML5' is deprecated. Using Template Mode 'HTML' instead.
-2020-09-22 15:49:59.682 [restartedMain] WARN  org.thymeleaf.templatemode.TemplateMode - [THYMELEAF][restartedMain] Template Mode 'LEGACYHTML5' is deprecated. Using Template Mode 'HTML' instead.
-2020-09-22 15:50:13.971 [restartedMain] WARN  org.thymeleaf.templatemode.TemplateMode - [THYMELEAF][restartedMain] Template Mode 'LEGACYHTML5' is deprecated. Using Template Mode 'HTML' instead.
